@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "post_name": "old-home",
+      "post_title": "Features",
+      "post_type": "page"
+    },
+    {
+      "post_name": "log-in",
+      "post_title": "Log In",
+      "post_type": "page"
+    },
+    {
+      "post_name": "sign-up",
+      "post_title": "Sign Up",
+      "post_type": "page"
+    },
+    {
+      "post_name": "reset-password",
+      "post_title": "Reset Password",
+      "post_type": "page"
+    },
+    {
+      "post_name": "update-password",
+      "post_title": "Update Password",
+      "post_type": "page"
+    },
+    {
+      "post_name": "access-denied",
+      "post_title": "Access Denied",
+      "post_type": "page"
+    },
+    {
+      "post_name": "user-account",
+      "post_title": "User Account",
+      "post_type": "page"
+    },
+    {
+      "post_name": "form-1",
+      "post_title": "form 1",
+      "post_type": "page"
+    },
+    {
+      "post_name": "singup",
+      "post_title": "singup",
+      "post_type": "page"
+    },
+    {
+      "post_name": "login",
+      "post_title": "login",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/step-one",
+      "post_title": "step one",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/untitled/agency-one",
+      "post_title": "agency-two",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/untitled/agency---two",
+      "post_title": "Agency - one",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/business-one/business-one",
+      "post_title": "business two",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/business-one/business-two",
+      "post_title": "business one",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/freelancer/freelancer-one",
+      "post_title": "freelancer two",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/freelancer/freelancer-two",
+      "post_title": "freelancer one",
+      "post_type": "page"
+    },
+    {
+      "post_name": "forms/sucess",
+      "post_title": "sucess",
+      "post_type": "page"
+    },
+    {
+      "post_name": "home-blog",
+      "post_title": "Home Blog",
+      "post_type": "page"
+    },
+    {
+      "post_name": "blog-exemple",
+      "post_title": "Blog exemple",
+      "post_type": "page"
+    },
+    {
+      "post_name": "index",
+      "post_title": "Home",
+      "post_type": "page"
+    },
+    {
+      "post_name": "pricing",
+      "post_title": "Pricing",
+      "post_type": "page"
+    }
+  ],
+  "terms": [],
+  "users": []
+}

@@ -1,0 +1,64 @@
+{
+  "text": {
+    "t2268ff": "Home",
+    "tnd78b7a3": "Features",
+    "t46097bc8": "Survey Crafting",
+    "t36648e49": "Choose the best Questions from our industry based database ",
+    "tn1a4c7e72": "Loyalty Incetives",
+    "tn64dd08e4": "Drive your sales and feedback with Loyalty Programs",
+    "t7d0b05a2": "Ambassadors",
+    "tn49ea5985": "Create and Manage Client ambassadors",
+    "t12ed1": "NPS",
+    "t507137a6": "Pricing",
+    "t24ccc2b1": "Try Now",
+    "tndbc0937": "Mobile Link 1",
+    "tndbc0936": "Mobile Link 2",
+    "tndbc0935": "Mobile Link 3",
+    "tndbc0934": "Mobile Link 4",
+    "tn204ff822": "Sign Up"
+  },
+  "link": {
+    "a23": "#",
+    "a2f": "/",
+    "a91328c5": "old-home",
+    "a7b788fd0": "home-blog",
+    "a-12c7603a": "pricing",
+    "a-79b4023b": "forms/step-one"
+  },
+  "textarea": {
+    "ta1fa3c2": "<span>Blog</span>"
+  },
+  "richtext": {},
+  "img": {
+    "in603f756": {
+      "src": "/assets/images/whatsapp_image_2024-04-03_at_6.57.27_PM-removebg-preview-1.png",
+      "alt": "",
+      "srcset": [
+        "/assets/images/whatsapp_image_2024-04-03_at_6.57.27_PM-removebg-preview-1-p-500.png 500w",
+        "/assets/images/whatsapp_image_2024-04-03_at_6.57.27_PM-removebg-preview-1.png 582w"
+      ],
+      "sizes": "(max-width: 991px) 40px, 100vw"
+    },
+    "i41b7992b": {
+      "src": "https://uploads-ssl.webflow.com/5e2d503812d9356ed3ed29c4/5e2d503812d935b164ed29de_yellow-icon-03.svg",
+      "alt": "",
+      "sizes": ""
+    },
+    "i6243d923": {
+      "src": "https://uploads-ssl.webflow.com/5e2d503812d9356ed3ed29c4/5e2d503812d93559f7ed29dd_yellow-icon-02.svg",
+      "alt": "",
+      "sizes": ""
+    },
+    "in59aa420f": {
+      "src": "https://uploads-ssl.webflow.com/5e2d503812d9356ed3ed29c4/5e2d503812d9357dfaed29db_yellow-icon-01.svg",
+      "alt": "",
+      "sizes": ""
+    },
+    "i96a0bdb": {
+      "src": "/assets/images/arrow-left.svg",
+      "alt": "",
+      "sizes": ""
+    }
+  },
+  "iframe": {}
+}
