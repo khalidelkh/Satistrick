@@ -32,6 +32,7 @@ defined( 'ABSPATH' ) || exit;
         <div class="navigation-left">
           <a href="#" 
           class="brand w-nav-brand">
+          <a href="https://satistrick.com/">
           <img src="<?= get_template_directory_uri() ?>/assets/images/whatsapp_image_2024-04-03_at_6.57.27_PM-removebg-preview-1.png"
            width="116" height="100" loading="eager" 
            alt="" 
