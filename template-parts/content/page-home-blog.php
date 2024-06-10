@@ -127,14 +127,10 @@ $all_categories = get_categories(array(
         </div>
     </div>
   </div>
-  <!-- <a href="#" class="next-button w-inline-block">
-   <div class="title-medium" >Next page</div>
-  </a> -->
+   
   <?php // Pagination
   $total_pages = $all_posts->max_num_pages;
   $next_page_url = get_next_posts_page_link($total_pages);?>
-            <a href="<?= esc_url($next_page_url); ?>" class="next-button w-inline-block">
-                <div class="title-medium">Next page</div>
-            </a>
-   <?php wp_reset_postdata();
-   ?>
+   <a href="<?= esc_url($next_page_url); ?>" class="next-button w-inline-block">
+   <div class="title-medium" >Next page</div>
+  </a> 

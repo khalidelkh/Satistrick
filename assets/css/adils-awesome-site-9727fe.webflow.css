@@ -673,9 +673,12 @@ text-decoration: none;
   text-decoration: none;
   display: flex;
 }
-a.articles-block.w-inline-block {
-  place-items: center;
+@media screen and (max-width: 768px ) {
+  a.articles-block.w-inline-block {
+    place-items: center;
+  }
 }
+
 .card---brix.stats-card-v1---brix {
   place-items: center !important;
 }
