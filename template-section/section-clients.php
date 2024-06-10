@@ -17,14 +17,14 @@ $clients = new WP_Query($args);
                 while ($clients->have_posts()) :
                     $clients->the_post();
                     $job = get_field('job');
-                    $image_url = get_the_post_thumbnail_url('full') ?: get_template_directory_uri() . "/assets/images/team05.jpg";
+                    $image_url = get_the_post_thumbnail_url(get_the_ID(), 'full') ?: get_template_directory_uri() . "/assets/images/team05.jpg";
             ?>
                     <div class="slide w-slide">
                         <div class="slide-wrap">
                             <img src="<?= get_template_directory_uri() ?>/assets/images/icn.svg" alt="" class="quotes-icon">
                             <div class="standard-paragraph"><?php the_content(); ?></div>
                             <div class="profile-block">
-                                <img src="<?= $image_url?>" width="60" class="profile-image">
+                                <img src="<?= esc_url($image_url) ?>" width="60" class="profile-image">
                                 <div class="profile-details">
                                     <div class="faq-title">
                                         <?php the_title(); ?>
