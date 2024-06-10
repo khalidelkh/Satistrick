@@ -134,11 +134,21 @@ defined( 'ABSPATH' ) || exit;
           <a href="#" class="mobile-nav-link w-nav-link">Mobile Link 1</a>
           <a href="#" class="mobile-nav-link w-nav-link">Mobile Link 2</a>
           <a href="#" class="mobile-nav-link w-nav-link">Mobile Link 3</a>
-          <a href="#" class="mobile-nav-link w-nav-link">Mobile Link 4</a>
+          <!-- <a href="#" class="mobile-nav-link w-nav-link">Mobile Link 4</a> -->
           <a href="#" class="mobile-nav-link w-nav-link">Sign Up</a>
         </nav>
         <div class="menu-mob w-nav-button">
-          <div class="w-icon-nav-menu"></div>
+          <div class="w-icon-nav-menu">
+          <nav role="navigation" class="mobile-nav w-nav-menu">
+          <a href="https://satistrick.com/" class="mobile-nav-link w-nav-link">Home</a>
+          <a href="/old-home" class="mobile-nav-link w-nav-link">Features</a>
+          <a href="/home-blog" class="mobile-nav-link w-nav-link">Blog</a>
+          <a href="/pricing" class="mobile-nav-link w-nav-link">Pricing</a>
+          <a href="https://app.satistrick.com/" class="mobile-nav-link w-nav-link">Sign Up</a>
+          
+          
+        </nav>
+          </div>
         </div>
       </div>
     </div>
