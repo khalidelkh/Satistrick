@@ -51,7 +51,7 @@ defined( 'ABSPATH' ) || exit;
               <nav class="navigation-dropdown w-dropdown-list">
                 <div class="dropdown-pointer">
                   <div class="dropdown-wrapper">
-                    <a href="/old-home"
+                    <a href="/survey-crafting"
                      class="dropdown-link w-inline-block">
                       <div class="icon-wrap">
                         <img alt=""
@@ -67,7 +67,7 @@ defined( 'ABSPATH' ) || exit;
                         </p>
                       </div>
                     </a>
-                    <a href="/old-home"
+                    <a href="/loyalty-incetives"
                      class="dropdown-link w-inline-block">
                       <div class="icon-wrap">
                         <img alt=""
@@ -82,7 +82,7 @@ defined( 'ABSPATH' ) || exit;
                         </p>
                       </div>
                     </a>
-                    <a href="/old-home" class="dropdown-link w-inline-block">
+                    <a href="/ambassadors" class="dropdown-link w-inline-block">
                       <div class="icon-wrap">
                         <img alt=""
                          src="https://uploads-ssl.webflow.com/5e2d503812d9356ed3ed29c4/5e2d503812d9357dfaed29db_yellow-icon-01.svg">
@@ -96,7 +96,7 @@ defined( 'ABSPATH' ) || exit;
                         </p>
                       </div>
                     </a>
-                    <a href="/old-home" class="dropdown-link w-inline-block">
+                    <a href="/nps" class="dropdown-link w-inline-block">
                       <div class="icon-wrap">
                         <img alt=""
                          src="https://uploads-ssl.webflow.com/5e2d503812d9356ed3ed29c4/5e2d503812d9357dfaed29db_yellow-icon-01.svg">
