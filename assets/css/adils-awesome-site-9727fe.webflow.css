@@ -230,6 +230,22 @@ h3 {
   display: flex;
 }
 
+ul#sub-menu li a{
+  color: black;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-family: Circularstd book, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+  line-height:30px;
+}
+
+ul#sub-menu {
+  list-style-type:none;
+  display:none;
+}
+
 .nav-link {
   color: var(--slate-grey);
   padding-left: 16px;

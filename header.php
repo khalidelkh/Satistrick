@@ -142,10 +142,18 @@ defined( 'ABSPATH' ) || exit;
           <div class="w-icon-nav-menu">
           <nav role="navigation" class="mobile-nav w-nav-menu">
           <a href="https://satistrick.com/" class="mobile-nav-link w-nav-link">Home</a>
-          <a href="/old-home" class="mobile-nav-link w-nav-link">Features</a>
+          <ul id="sup-menu" class=" mobile-nav-link w-nav-link">Features&nbsp;&nbsp;<svg fill="#000000" width="10px" height="10px" viewBox="-6.5 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg"><title>dropdown</title><path d="M18.813 11.406l-7.906 9.906c-0.75 0.906-1.906 0.906-2.625 0l-7.906-9.906c-0.75-0.938-0.375-1.656 0.781-1.656h16.875c1.188 0 1.531 0.719 0.781 1.656z"></path></svg></ul>
+          <ul id="sub-menu">
+           <li ><a href="/survey-crafting">Survey Crafting</a></li>
+           <li ><a href="/loyalty-incetives">Loyalty Incetives</a></li>
+           <li ><a href="/ambassadors">Ambassadors</a></li>
+           <li ><a href="/nps">NPS</a></li>
+          </ul> 
+          
+          
           <a href="/home-blog" class="mobile-nav-link w-nav-link">Blog</a>
           <a href="/pricing" class="mobile-nav-link w-nav-link">Pricing</a>
-          <a href="https://app.satistrick.com/" class="mobile-nav-link w-nav-link">Sign Up</a>
+          <a href="https://app.satistrick.com/" class="mobile-nav-link w-nav-link">Sign Up</a> 
           
           
         </nav>
