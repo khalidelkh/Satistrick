@@ -130,7 +130,9 @@ $all_categories = get_categories(array(
    
   <?php // Pagination
   $total_pages = $all_posts->max_num_pages;
-  $next_page_url = get_next_posts_page_link($total_pages);?>
-   <a href="<?= esc_url($next_page_url); ?>" class="next-button w-inline-block">
+  $next_page_url = get_next_posts_page_link($total_pages);?> 
+  <div style="display:flex; justify-content: center;">
+  <a href="<?= esc_url($next_page_url); ?>" class="next-button w-inline-block">
    <div class="title-medium" >Next page</div>
-  </a> 
+  </a>
+  </div>

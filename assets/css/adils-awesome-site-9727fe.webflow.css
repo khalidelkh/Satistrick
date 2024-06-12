@@ -229,6 +229,11 @@ h3 {
   align-items: flex-start;
   display: flex;
 }
+ul, ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 40px;
+}
 
 ul#sub-menu li a{
   color: black;
@@ -1109,15 +1114,11 @@ text-decoration: none;
 
 @media screen and (max-width: 375px) {
   form#email-form {
-  width: 344px !important;
-}
-}
-
-@media screen and (max-width: 375px) {
-  .next-button{
-    margin-left: 97px !important;
+      width: 323px !important;
   }
 }
+
+
 
 @media screen and (max-width: 375px) {
   .footer-block {
