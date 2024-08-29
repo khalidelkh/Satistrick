@@ -52,7 +52,8 @@
         </div>
         <div id="w-node-a39fd47a-3a83-c060-10b6-94a4efe98bb3-08041c58" class="feature-image-block">
           <img src="<?= get_template_directory_uri() ?>/assets/images/pexels-tim-douglas-6567607-removebg-preview.png"
-           sizes="(max-width: 767px) 94vw, 540px" class="feature-image-1"></div>
+           sizes="(max-width: 767px) 94vw, 540px" class="feature-image-1">
+        </div>
       </div>
     </div>
   </div>

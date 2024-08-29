@@ -136,3 +136,4 @@ $all_categories = get_categories(array(
    <div class="title-medium" >Next page</div>
   </a>
   </div>
+  
